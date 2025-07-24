@@ -559,4 +559,11 @@ ul.submenu li a:hover,ul.submenu li a.active { color: var(--secondery-color);  b
       }
     }
 	.w-33{ width: 32%;}
+
+	 .mainbox{  display: flex; flex-wrap: wrap;}
+  .mainbox img{  max-width: 100%; margin: 0 auto; display: block;}
+ .box{width: 50%;}
+  .box1{width:33%;}
+  .box2{width:66%;}
+   .h1{ text-align: center; margin-top: 100px; text-transform: uppercase;}
 	
